@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Encryption-Decryption/task/build/
+/Encryption-Decryption/task/out/
+/Encryption-Decryption/task/out/production/classes/
+/Topics/Command-line arguments/Basic calculator/out/
+/Topics/Command-line arguments/Basic calculator/out/production/classes/
